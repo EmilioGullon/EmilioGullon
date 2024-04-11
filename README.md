@@ -1,5 +1,5 @@
 
-### Que haces leyendo esto cipollo
+### Que haces leyendo
 - 👋 Hi, I’m @EmilioGullon
 
 
