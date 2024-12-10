@@ -1,7 +1,3 @@
-Aquí tienes la versión actualizada del README de tu perfil:
-
----
-
 # 👋 ¡Hola! Soy Emilio Gullón
 
 ### 🎓 Educación
