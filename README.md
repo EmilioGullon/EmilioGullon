@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Emilio Gullón
 
 ### 🎓 Educación
-Estoy finalizando la carrera de Ingeniería Informática con mención en Ciencias de la Computación. He cursado asignaturas como Aprendizaje Automático, Visión por Computador y he implementado varios proyectos en Python, utilizando ampliamente las librerías de Numpy y Matplotlib, entre otras.
+Estoy finalizando la carrera de Ingeniería Informática con mención en Ciencias de la Computación en la Universida de Granada. He cursado asignaturas como Aprendizaje Automático, Visión por Computador y he implementado varios proyectos en Python, utilizando ampliamente las librerías de Numpy y Matplotlib, entre otras.
 
 ### 💻 Proyectos
 - **Proyecto 1**: [Descripción breve del proyecto y su propósito]
