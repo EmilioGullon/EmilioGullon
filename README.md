@@ -4,9 +4,9 @@
 Estoy finalizando la carrera de Ingeniería Informática con mención en Ciencias de la Computación en la Universida de Granada. He cursado asignaturas como Aprendizaje Automático, Visión por Computador y he implementado varios proyectos en Python, utilizando ampliamente las librerías de Numpy y Matplotlib, entre otras.
 
 ### 💻 Proyectos
-- **Proyecto 1**: [Descripción breve del proyecto y su propósito]
-- **Proyecto 2**: [Descripción breve del proyecto y su propósito]
-- **Proyecto 3**: [Descripción breve del proyecto y su propósito]
+- **Prácticas de Visión por Computador**: 
+- **Prácticas de Django**: 
+- **Prácticas de Metaheurística**: 
 
 ### 🛠️ Habilidades
 - **Lenguajes de Programación**: Python
@@ -16,7 +16,7 @@ Estoy finalizando la carrera de Ingeniería Informática con mención en Ciencia
 - Inglés básico
 
 ### 🏀 Aficiones
-Juego semiprofesionalmente al baloncesto.
+Llevo jugando toda mi vida al baloncesto y sigo jugando en un equipo no federado.
 
 ### 📍 Ubicación
 Soy de Badajoz, España.
